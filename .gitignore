@@ -1,0 +1,29 @@
+
+
+# IDEs
+vscode/
+idea/
+
+# macOS
+.DS_Store
+
+
+# Sensitive
+*.pem
+
+# LaTeX
+*.aux
+*.gz
+*.log
+
+# Archives
+*.tar
+*.tz
+*.zip
+*.rar
+*.7z
+
+
+
+
+
