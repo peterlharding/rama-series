@@ -11,6 +11,9 @@ idea/
 # Sensitive
 *.pem
 
+# Ignore
+epub/
+
 # LaTeX
 *.aux
 *.gz
